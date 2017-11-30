@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://smsc.vianett.no/v3/cpa/cpawebservice.asmx?wsdl" docRef="http://smsc.vianett.no/v3/cpa/cpawebservice.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://smsc.vianett.no/v3/cpa/cpawebservice.asmx" xmlns:q1="http://smsc.vianett.no/CPA/" binding="q1:CPAWebServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://smsc.vianett.no/v3/cpa/cpawebservice.asmx" xmlns:q2="http://smsc.vianett.no/CPA/" binding="q2:CPAWebServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/SendSMS/v14
+/Domain/bin/Debug
+/Domain/obj/Debug
+/Infrastructure.LocaSMS/bin/Debug
+/Infrastructure.LocaSMS/obj/Debug
+/packages/SimpleInjector.4.0.12
+/SendSMS/bin/Debug
+/SendSMS/obj/Debug
